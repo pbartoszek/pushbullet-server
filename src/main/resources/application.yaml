@@ -1,0 +1,2 @@
+push.bullet.url: https://api.pushbullet.com/v2
+spring.jackson.serialization.indent_output: true
